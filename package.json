@@ -1,6 +1,6 @@
 {
   "name": "google-spreadsheet-as-promised",
-  "version": "0.2.11",
+  "version": "0.2.12",
   "description": "Basic Google Spreadsheet functionality - load a spreadsheet, switch workbooks, read and write cells, wrapped in Promise interface and with human readable cell designation.",
   "main": "index.js",
   "scripts": {
@@ -26,6 +26,6 @@
   "homepage": "https://github.com/ranhalprin/node-google-spreadsheet-as-promised#readme",
   "dependencies": {
     "bluebird": "^3.4.6",
-    "google-spreadsheet": "2.0.3"
+    "google-spreadsheet": "^2.0.6"
   }
 }
